@@ -1,8 +1,4 @@
-body{
-	margin:0;
-	padding:0;
-	background:#00BFFF;
-}
+
 /*PASTO SOL*/
 .sol {
      width: 100px;
@@ -17,10 +13,13 @@ body{
 }
 .pasto {
      width: 100%; 
-     height: 20%;
-     position: absolute;
+     height: 150px;
+     position: relative;
 	 background: green;
-	 bottom: 0px;
+	 position: relative;
+     top:350px;
+    
+	 
 
 }
 /*CASA*/
@@ -105,5 +104,14 @@ body{
 
 }
 
+.casita{
+	position: relative;
+	bottom:200px;
+}
+body{
+	background: pink;
+	margin:0;
+	padding:0;
+}
 
 
