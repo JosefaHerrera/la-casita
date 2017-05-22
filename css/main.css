@@ -1,6 +1,7 @@
 body{
 	margin:0;
 	padding:0;
+	background:#00BFFF;
 }
 /*PASTO SOL*/
 .sol {
@@ -34,7 +35,7 @@ body{
     top:100px;
 }
 .puerta{
-	background:pink;
+	background:#222211;
 	width: 130px; 
     height: 200px; 
     position: relative;
@@ -47,7 +48,7 @@ body{
      height: 95px; 
      position: relative;
      left: 65%;
-     top: -260px;
+     top: -290px;
 }
 .chimenea{
 	background: black;
@@ -91,12 +92,16 @@ body{
 }
 
 .casa-solida{
-	background:	#D2691E;
+	background:	#99994d;
      width: 370px; 
      height: 250px; 
      position: relative;
      left: 50%;
      top: 100px;
+
+}
+
+.corazon{
 
 }
 
